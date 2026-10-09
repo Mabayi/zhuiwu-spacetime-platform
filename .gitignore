@@ -1,0 +1,14 @@
+.venv/
+runtime/
+__pycache__/
+*.py[cod]
+.openai/
+.env
+.env.*
+!.env.example
+*.log
+data/*.ply
+data/*.las
+*.7z
+*.zip
+algorithms/render_auto_gap_diagnostic.py
